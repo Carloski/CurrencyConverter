@@ -1,5 +1,5 @@
 :root {
-  --primary-color: #5fbaa7;
+  --primary-color: #51b848;
 }
 
 * {
@@ -18,12 +18,18 @@ body {
   padding: 20px;
 }
 
+#hero {
+  height: 200px;
+  width: 200px;
+}
+
 h1 {
   color: var(--primary-color);
 }
 
 p {
   text-align: center;
+  text-transform: capitalize;
 }
 
 .btn {
