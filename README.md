@@ -1,4 +1,4 @@
-# Park Search
+# Currency Converter
 
 This is a Vanilla JavaScript Project displaying an application that allows users to view the exchange rate between two currencies. It features a Modern Responsive design that works smoothly on every desktop, smartphone and tablet.
 
