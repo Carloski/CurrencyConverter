@@ -3,9 +3,11 @@
 This is a Vanilla JavaScript Project displaying an application that allows users to view the exchange rate between two currencies. It features a Modern Responsive design that works smoothly on every desktop, smartphone and tablet.
 
 
-![Chat Preview](https://i.imgur.com/T2BrnD2.png)
+<img src="https://i.imgur.com/T2BrnD2.png" w-200/>
 
 ---
+
+![Chat Preview](https://i.imgur.com/T2BrnD2.png)
 
 ![Chat Preview](https://i.imgur.com/Jd72eE6.png)
 
